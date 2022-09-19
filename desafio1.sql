@@ -1,1 +1,1 @@
-iniciando All For one #VQV
+SELECT product_name FROM northwind.products;
